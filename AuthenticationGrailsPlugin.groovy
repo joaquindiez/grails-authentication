@@ -1,6 +1,6 @@
 
 class AuthenticationGrailsPlugin {
-	def version = '2.0.1'
+	def version = '2.0.2'
     def author = "Marc Palmer"
     def authorEmail = "marc@anyware.co.uk"
     def title = "Simple, extensible authentication services with signup support"
